@@ -642,6 +642,16 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 0;
 }
 
+/*download-button*/
+.download-button a {
+    margin-right: 20px;
+    margin-left: 50px;
+    color: #fff;
+}
+.download-button a i {
+    margin-right: 10px;
+}
+
 
 /* LIST STYLE
 -------------------------------------------------- */
